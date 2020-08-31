@@ -1,95 +1,77 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Tahshara Boochee
+full_name: Tahshara Boochee
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/boocheet/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
-
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+  - I love cultivating and maintaining relationships. I come from a huge family and I value spending time with family and friends. 
+  - With that said, I also value personal time and a good work-life **Balance**.  I enjoy living a healthy and active lifestyle, thus I like to challenge myself physically because it helps me to develop mental calluses.
+  - I value **humility** and **candor** from others.
+  - I value autonomy 
 
 ## Personality
-
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
-
-## Receiving Feedback & Recognition
-
-How do you best receive feedback, be it positive or negative?
-
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
-
-## Work Patterns
-
-What hours do you usually work?
-
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
-
-## Communication Preferences
-
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
-
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+I’m goal-oriented and intrinsically motivated  which gives me a **can-do** attitude as well as a steady inner drive.
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
+If I'm silent or withdrawn
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+#### How to help
+Help me to feel comfortable.  I feel comfortable when:
+   1. I am familiar and at ease with the individuals I am with;
+   1. The stated problem is clear enough and I have enough knowledge to provide feedback.
+  - **Conflict**: I address conflict head on. I believe conflict establishes clear lines of thought and allows for an unequivocal dialogue to take place between myself and the others.
 
-### How to help
+## Receiving Feedback & Recognition
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+**How do you best receive feedback, be it positive or negative?**
 
-## Me Being Me
+  - Positive feedback: feedback in a private or group slack channel as well as team meetings is fair game! 
+  - Negative feedback: 1-1s are the best and private slack channel. Provide an example of my actions or character.  That can help me learn.  
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+## Work Patterns
 
-## Pet Peeves
+**What hours do you usually work?**
 
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
+  - I work best in the morning
+  - My work day usually starts at 8am 
+  - Meetings are ideal 12pm-3pm PST.
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+**When do you prefer to work alone, versus in groups?**
 
-## Career Goals & Future Interests
+  - **Meetings**: Ideally, I like it when meetings have an agenda _with_ an expected outcome/decision.
+  - **Learning**: I prefer to work things out on my own before reaching out for help. I will reach out to others to get ideas or when I have a question.
+  - **Planning**: I prefer planning as a group;
+  - **Development**: I like to code solo for the most part.  I will call upon help when I'm having a hard time debugging, or need a second pair of eyes when writing something.
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+**How do your energy levels fluctuate throughout the day?**
+
+  - I have a lot of peaks and valleys in my day but typically the mornings are my peaks and I hit a valley after lunch but then I’ll peak again around 2pm or so.
+
+## Communication Preferences
+I prefer in person communication but COVID-19 has made me adapt to 
+**Slack** for getting my attention.
+If there is a long conversation needed or a constant back and forth of questions I prefer face to face video calls using Meet or Zoom. 
+I try to respond to email within 24 hours. If you need a prompt response please slack me.
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+  - Asking questions that strike at the heart of the issue.  Sometimes I don't know what questions to ask to get a better understanding of context.
+  - Android Development
+- everything!!! I’m constantly learning and growing :) 
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+  - Chaplaincy
+  - Traveling 
+  - Food

@@ -1,0 +1,4 @@
+[submodule "workwithme.guide-myguide"]
+	path = workwithme.guide-myguide
+	url = https://github.com/boocheet/workwithme.guide-myguide.git
+	branch = master
